@@ -1,4 +1,4 @@
-# CNN_Detecting_Brain_Tumor
+
 
 # 🧠 Brain Tumor Detection from MRI Images
 
