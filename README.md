@@ -41,6 +41,8 @@ Shearing, etc.
 Three pre-trained CNN architectures were fine-tuned on the processed dataset:
 
 1. VGG16
+
+
 Accuracy: 0.80
 
 Precision: 0.75
@@ -52,6 +54,8 @@ F1 Score: 0.82
 
 
 2. ResNet50
+
+
 Accuracy: 0.75
 
 Precision: 0.69
@@ -61,6 +65,7 @@ Recall: 0.90
 F1 Score: 0.78
 
 3. InceptionV3
+
 Accuracy: 0.85
 
 Precision: 0.77
@@ -68,7 +73,6 @@ Precision: 0.77
 Recall: 1.00
 
 F1 Score: 0.87
-
 
 
 ✅ Best Model
